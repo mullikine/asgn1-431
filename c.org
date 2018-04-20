@@ -1,0 +1,5 @@
+* off_t
+[[http://pubs.opengroup.org/onlinepubs/9699919799/]]   
+#+BEGIN_SRC sh
+gr -w "http://pubs.opengroup.org" -- bytes_offset_t
+#+END_SRC

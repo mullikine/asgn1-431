@@ -1,0 +1,24 @@
+* COSC431 - Asgn 1
+Shane Mulligan
+
+* Build
+#+BEGIN_SRC sh
+make clean
+make
+#+END_SRC
+
+* Index
+#+BEGIN_SRC sh
+indexer wsj.xml
+#+END_SRC
+
+* Searching
+** Rank by Retrieval Status Value (RSV) 
+#+BEGIN_SRC sh
+echo "search terms" | search
+#+END_SRC
+
+** Rank by Tf-Idf
+#+BEGIN_SRC sh
+echo "search terms" | search
+#+END_SRC
